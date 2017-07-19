@@ -11,14 +11,14 @@ today_in_history_4web
 		
 
 ## 输入：
-用户输入日期（月、日）：上行输入月份，下行输入日期。在交互界面使用HTML5之[br标签](http://www.runoob.com/tags/tag-br.html)及[body标签](http://www.runoob.com/tags/tag-body.html)
+用户输入日期（月、日）：上行输入月份，下行输入日期。在交互界面使用HTML5之[br标签](来源为 http://www.runoob.com/tags/tag-br.html)及[body标签](来源为 http://www.runoob.com/tags/tag-body.html)
 ## 输出：
 用户得到输出结果为：历史上的某一天发生的大事件(选取前五件事情)，详见[new_file.py](new_file.py)
 
 ## 从输入到输出，本组作品使用了：
 ### 模块
-* [request](http://www.python-requests.org/en/master/)  
-* [Flask](http://www.pythondoc.com/flask/)
+* [request](来源为 http://www.python-requests.org/en/master/)  
+* [Flask](来源为 http://www.pythondoc.com/flask/)
 
 ### 数据
 * 来源：[聚合数据](https://www.juhe.cn/)
